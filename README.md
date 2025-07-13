@@ -1,3 +1,4 @@
+![AdPay Banner](./banner.png)
 # AdPay: Ad-Funded Blockchain Transactions
 
 **Idea by:** Markus Grünke  
@@ -31,3 +32,4 @@ The transaction fee is (partially) covered by advertisers sponsoring these ads.
 - Wallets supporting microtransactions  
 - Airdrop and remittance platforms  
 - Ad-sup
+Added project banner to README
